@@ -1,6 +1,12 @@
-# Lab 5: Static Code Analysis  -  Personal Expense Tracker
+# Lab 5: Static Code Analysis - Personal Expense Tracker
 
-**Your file:** `expense_tracker.py`
+**Student Name:** Soumik Sinha  
+**USN / SRN:** PES1UG24CS463  
+**Section:** 5H  
+**Roll / Sl. No:** 32  
+**Assigned Repository:** `L5_32_expense_tracker`  
+
+**Program File:** `expense_tracker.py`
 
 Follow the lab handout for the full instructions.
 
