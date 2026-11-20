@@ -1,4 +1,4 @@
-# Lab 5: Static Code Analysis — Personal Expense Tracker
+# Lab 5: Static Code Analysis  -  Personal Expense Tracker
 
 **Your file:** `expense_tracker.py`
 
